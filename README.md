@@ -1,2 +1,2 @@
-# -info2180-lab2
-This is Lab 2 for <Jahchrisi Beadle>
+# INFO2180 Lab2
+This is Lab 2 for Jahchrisi Beadle
